@@ -1,5 +1,6 @@
 # Running the application 
 
+- built using node version 18
 1. npm install
 2. Build: npm run build
 3. Run: npm run serve
